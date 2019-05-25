@@ -1,0 +1,2 @@
+# sqldb
+SQLDB baglanti kutuphanesi
