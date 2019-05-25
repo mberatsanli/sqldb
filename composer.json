@@ -1,0 +1,22 @@
+{
+    "name": "mberatsanli/sqldb",
+    "description": "SQLDB baglanti kutuphanesi",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Melih Berat ŞANLI",
+            "email": "dev.mberatsanli@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "mberatsanli\\sqldb": "src/"
+        }
+    }
+}
